@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KanjiActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/kanjiTxt"
+        android:text="Kanji"
+        android:layout_margin="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+    <ImageView
+        android:layout_width="135dp"
+        android:layout_height="135dp"
+        android:src="@mipmap/ic_launcher_round"
+        android:layout_below="@+id/kanjiTxt"
+        android:layout_margin="10dp"
+        android:id="@+id/kanjiImg" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/kanjiImg"
+        android:text="Meaning"
+        android:textSize="15sp"
+        android:id="@+id/meaningTxt"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Common Words"
+        android:id="@+id/commonWords"
+        android:textSize="15sp"
+        android:layout_below="@+id/meaningTxt"
+        android:layout_margin="10dp"/>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/commonWords"
+        android:id="@+id/wordList"
+        />
+
+    <RelativeLayout
+        android:layout_width="185dp"
+        android:layout_height="250dp"
+        android:layout_toEndOf="@+id/kanjiImg"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/OnTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="On"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:id="@+id/kunTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OnTxt"
+            android:text="kun"
+            android:layout_margin="10dp"
+            android:textSize="17sp"/>
+    </RelativeLayout>
+
+
+</RelativeLayout>

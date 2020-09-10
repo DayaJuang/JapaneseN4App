@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">KanjiCardN4</string>
+    <string name="kanji1">会</string>
+    <string name="url1">https://image.freepik.com/free-vector/isometric-business-people-meeting_23-2148289514.jpg</string>
+    <string name="des1">Meeting / Meet</string>
+    <string name="on1">カイ</string>
+    <string name="kun1">あ(う)</string>
+    <string-array name="wordList1">
+        <item>会議（かいぎ）：Meeting</item>
+        <item>会社（かいしゃ）：Company, Corporation</item>
+        <item>社会（しゃかい）：Society</item>
+        <item>会話（かいわ)　：Conversation</item>
+        <item>会議（かいぎ）：Meeting</item>
+        <item>会員（かいいん）：Member</item>
+        <item>教会（きょうかい）：Church</item>
+        <item>機会（きかい）：Chance</item>
+        <item>会議（かいぎ）：Meeting</item>
+        <item>会計（かいけい）：Bill,Payment</item>
+        <item>出会う（であう）：To Meet(by chance)</item>
+    </string-array>
+    <string name="kanji2">同</string>
+    <string name="url2">https://image.freepik.com/free-vector/man-woman-accepting-idea-gender-equality_23-2148581695.jpg</string>
+    <string name="des2">Same / Agree / Equal</string>
+    <string name="on2">ドウ</string>
+    <string name="kun2">おな（じ）</string>
+    <string-array name="wordList2">
+        <item>同意（どうい）：Agree</item>
+        <item>同時（どうじ）：Simultaneous</item>
+    </string-array>
+    <string name="kanji3">事</string>
+    <string name="url3">https://image.freepik.com/free-vector/pack-designers-illustration_23-2148521835.jpg</string>
+    <string name="des3">Business / Thing</string>
+    <string name="on3">ジ</string>
+    <string name="kun3">こと</string>
+    <string-array name="wordList3">
+        <item>仕事（しごと）：Work</item>
+        <item>事故（じこ）：Accident</item>
+        <item>食事（しょくじ）：Eat</item>
+        <item>事実（じじつ）：Fact,Truth</item>
+        <item>事前（じぜん）：Beforehand</item>
+        <item>返事（へんじ）：Reply</item>
+        <item>工事（こうじ）：Construction Work</item>
+        <item>用事（ようじ）：Things to do</item>
+        <item>事務所（じむしょ）：Office</item>
+        <item>事務員（じむいん）：Office Worker</item>
+    </string-array>
+    <string name="kanji4">自</string>
+    <string name="url4">https://pp.netclipart.com/pp/s/249-2491689_boy-young-stand-free-picture-child-pointing-to.png</string>
+    <string name="des4">Oneself</string>
+    <string name="on4">ジ、シ</string>
+    <string name="kun4">みずか（ら）</string>
+    <string-array name="wordList4">
+        <item>自由（じゆう）：Freely</item>
+        <item>自分（じぶん）：Myself</item>
+        <item>自宅（じたく）：One\'s house</item>
+        <item>自動（じどう）　：Automatic</item>
+        <item>自身（じしん）：Personally</item>
+        <item>自信（じしん）：Confident</item>
+        <item>自己紹介（じこしょうかい）：Self Introduction</item>
+        <item>自動車（じどうしゃ）：Car</item>
+        <item>自転車（じてんしゃ）：Bicycle</item>
+    </string-array>
+    <string name="kanji5">社</string>
+    <string name="url5">https://image.freepik.com/free-vector/company-concept-illustration_114360-2581.jpg</string>
+    <string name="des5">Company / Office / Shrine</string>
+    <string name="on5">シャ</string>
+    <string name="kun5">やしろ</string>
+    <string-array name="wordList5">
+        <item>社員（しゃいん）：Employee</item>
+        <item>正社員（せいしゃいん）：Full-time employee</item>
+        <item>派遣社員（はけんしゃいん）：Temporary Employee</item>
+        <item>契約社員（けいやくしゃいん）：Contract Employee</item>
+        <item>本社（ほんしゃ）：Head Office</item>
+        <item>出社（しゅっしゃ）：Going to office/work</item>
+        <item>入社　：Joining the company</item>
+        <item>株式会社（かぶしきがいしゃ）：Corporation</item>
+        <item>社長（しゃちょう）：Company\'s President</item>
+        <item>神社（じんじゃ）：Shinto\'s Shrine</item>
+    </string-array>
+    <string name="kanji6">新</string>
+    <string name="url6">https://image.freepik.com/free-vector/shopping_24908-54102.jpg</string>
+    <string name="des6">New</string>
+    <string name="on6">シン</string>
+    <string name="kun6">あたら（しい）、あら（た）</string>
+    <string-array name="wordList6">
+        <item>新聞（しんぶん）：Newspaper</item>
+        <item>新人（しんじん）：Newcomer</item>
+        <item>最新（さいしん）：Latest</item>
+        <item>新型（しんがた）：New Type</item>
+    </string-array>
+    <string name="kanji7">立</string>
+    <string name="url7">https://image.freepik.com/free-vector/little-boy-pointing-with-index-finger-flat-vector-illustration_71593-566.jpg</string>
+    <string name="des7">Stand Up</string>
+    <string name="on7">リツ</string>
+    <string name="kun7">た（つ）</string>
+    <string-array name="wordList7">
+        <item>独立（どくりつ）：Independent</item>
+        <item>立派（りっぱ）：Splendid</item>
+        <item>目立つ（めだつ）：Stand Out</item>
+        <item>組み立てる（くみたてる）：Assembly</item>
+    </string-array>
+    <string name="kanji8">発</string>
+    <string name="url8">https://image.freepik.com/free-vector/airport-concept-illustration-man-airport-departures-terminal_24908-61080.jpg</string>
+    <string name="des8">Departure,Discharge</string>
+    <string name="on8">ハツ</string>
+    <string name="kun8">-</string>
+    <string-array name="wordList8">
+        <item>発現（はつげん）：Discovery</item>
+        <item>発表（はっぴょう）：Presentation</item>
+        <item>発行（はっこう）：Publish</item>
+        <item>開発（かいはつ）：Development</item>
+        <item>出発（しゅっぱつ）：Departure</item>
+        <item>発明（はつめい）：Invention</item>
+        <item>発売（はつばい）：On Sale</item>
+        <item>発電機（はつでんき）：Generator（Machine)</item>
+    </string-array>
+    <string name="kanji9">者</string>
+    <string name="url9">https://image.freepik.com/free-vector/people-avatars_23-2147501881.jpg</string>
+    <string name="des9">Person</string>
+    <string name="on9">シャ</string>
+    <string name="kun9">もの</string>
+    <string-array name="wordList9">
+        <item>医者（いしゃ）：Doctor</item>
+        <item>歯医者（はいしゃ）：Dentist</item>
+        <item>役者（やくしゃ）：Actor</item>
+        <item>作者（さくしゃ）：Author</item>
+        <item>技術者（ぎじゅつしゃ）：Engineer</item>
+        <item>研究者（けんきゅうしゃ）：Researcher</item>
+        <item>若者（わかもの）：Young Person</item>
+    </string-array>
+    <string name="kanji10">地</string>
+    <string name="url10">https://image.freepik.com/free-vector/space-with-planet-earth-flat-design_23-2147617966.jpg</string>
+    <string name="des10">Earth,Ground</string>
+    <string name="on10">チ、ジ</string>
+    <string name="kun10">もの</string>
+    <string-array name="wordList10">
+        <item>地図（ちず）：Map</item>
+        <item>地位（ちい）：Position,Status</item>
+        <item>土地（とち）：Soil</item>
+        <item>地球（ちきゅう）：Earth</item>
+        <item>地球温暖化（ちきゅうおんだんか）：Global Warming</item>
+    </string-array>
+
+
+
+    <!-- Vocabulary -->
+    <string name="vocab1">遊びます（あそびます）</string>
+    <string name="vocabUrl">https://image.freepik.com/free-vector/children-playing-playground_23-2147584893.jpg</string>
+</resources>
